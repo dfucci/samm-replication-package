@@ -1,0 +1,10 @@
+SAMM.Rproj
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Rplots.pdf
+paper/
+renv/
+support/
+data/survey/original/
